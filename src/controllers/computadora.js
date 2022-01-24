@@ -1,0 +1,1 @@
+const { Computadora } = require('../models')
